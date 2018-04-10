@@ -1,4 +1,4 @@
-# python-speech-ann
+# python-speech-ann # intended for one person to train and use, not a one fits all (i have not tested this)
 Experimentation with neural networks and speech using python
 
 This is the result of my experiments with Michael Wayman's (https://github.com/michaelwayman/python-ann) implementation of a digit recognition artificial neural network in python.
