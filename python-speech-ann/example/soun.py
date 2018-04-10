@@ -1,3 +1,4 @@
+# from https://stackoverflow.com/questions/892199/detect-record-audio-in-python/6743593
 from sys import byteorder
 from array import array
 from struct import pack
