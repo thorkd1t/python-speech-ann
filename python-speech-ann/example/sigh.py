@@ -1,4 +1,4 @@
-# with some help from https://stackoverflow.com/questions/138250/how-can-i-read-the-rgb-value-of-a-given-pixel-in-python      and https://stackoverflow.com/questions/47954034/plotting-spectrogram-in-audio-analysis
+# with some help from https://stackoverflow.com/questions/47954034/plotting-spectrogram-in-audio-analysis
 import scipy
 from scipy import signal
 import scipy.io
